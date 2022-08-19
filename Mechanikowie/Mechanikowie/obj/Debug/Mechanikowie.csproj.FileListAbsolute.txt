@@ -1,0 +1,24 @@
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.exe.config
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.exe
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.pdb
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csprojAssemblyReference.cache
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_DodajNaprawę.resources
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_WszystkieNaprawy.resources
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Properties.Resources.resources
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csproj.GenerateResource.cache
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csproj.CoreCompileInputs.cache
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.exe
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.pdb
+C:\Users\Rtoir\source\repos\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_Rozliczenia.resources
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.exe.config
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.exe
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\bin\Debug\Mechanikowie.pdb
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csprojAssemblyReference.cache
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_DodajNaprawę.resources
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_Rozliczenia.resources
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Form_WszystkieNaprawy.resources
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.Properties.Resources.resources
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csproj.GenerateResource.cache
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.csproj.CoreCompileInputs.cache
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.exe
+C:\Users\Rtoir\Downloads\Artur Górecki\Mechanikowie\Mechanikowie\obj\Debug\Mechanikowie.pdb
